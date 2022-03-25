@@ -18,11 +18,11 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "ARIHRMWNBOT"//namabot kalian
-global.ownername= "ᴹᴿ᭄Ari "//nama kalian
-global.myweb ="ANJAY KAMU BOHON" //bebas asal jan hapus
-global.youtube = "Bukan Aku Yg Bohong" //bebas asal jan hapus
-global.github = "Arak Yg Bohong" //bebas
+global.botname = "ARIHRMWNBOTに" //namabot kalian
+global.ownername= "ᴹᴿ᭄ ARIHRMWN ×፝֟͜×" //nama kalian
+global.myweb ="EHEM" //bebas asal jan hapus
+global.youtube = "yandex.com" //bebas asal jan hapus
+global.github = "www.kontolterbang.com" //bebas
 global.email = "arihrmwn15@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6283115553568" // nomor wa kalian
@@ -30,9 +30,9 @@ global.ownernomerr = "+6283115553568" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6283115553568","6283115553568","6283215553568"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© ARIHRMWNBOT'//sticker wm ubah
-global.author = 'DiBuatOlehAriHRMWN'//sticker wm ganti nama kalian
+global.owner = ["6283115553568","6283115553568","6283115553568"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© BY ARIHRMWNBOT' //sticker wm ubah
+global.author = 'Di Buat Oleh ARI' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
